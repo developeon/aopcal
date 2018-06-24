@@ -16,7 +16,7 @@
 		</aop:aspect>
 	</aop:config>
 
-	<bean id="impeCal" class="kr.hs.emirim.developeon.aopcal.cal.ImpeCalculator">
+	<bean id="impCal" class="kr.hs.emirim.developeon.aopcal.cal.ImpeCalculator">
 	</bean>
 
 	<bean id="recCal" class="kr.hs.emirim.developeon.aopcal.cal.RecCalculator">
